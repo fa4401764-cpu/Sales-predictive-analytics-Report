@@ -54,3 +54,6 @@ Slicers and Filters
 
 6-Demo:
 ![Dashboard Preview](https://github.com/fa4401764-cpu/sales-prediction-report/blob/main/Report%20home%20page.png)
+
+
+![Dashboard Preview](https://github.com/fa4401764-cpu/Sales-Intelligence-Report/blob/main/Analysis%20Page.png)
